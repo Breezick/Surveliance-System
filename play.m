@@ -1,3 +1,4 @@
+%alot of credit is given to Sohil Shah who which we both worked on other projects while assembling this robot.
 
 clc; clear;
 
